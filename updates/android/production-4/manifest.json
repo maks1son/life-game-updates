@@ -4,10 +4,10 @@
   "channel": "production-4",
   "nativeVersionCode": 4,
   "nativeVersionName": "0.4.0",
-  "bundleId": "web-0.4.0-20260729T202337124Z",
-  "downloadUrl": "https://raw.githubusercontent.com/maks1son/life-game-updates/main/updates/android/production-4/bundles/web-0.4.0-20260729T202337124Z.zip",
-  "checksum": "2e556244b6c5e38cdea0e67dd44fa97854dde1610c8009a46ad66e5f6896c52d",
-  "signature": "CCIC5vj9/Qfr8u6V0MT2uCT7EoJTURKPdGfv+0TA5Z0em7o0oLRDZd706fJGtPWy3vq+YOUhdEpKWdvCBKrEKscmTcXEk2TgiXH6zgD1TYy2Y1gD5BrAxUOYfFRizF8EmpLTlKiTL9BW8u3AbbxojnkR6WFgFp1brDQkKEWG+/LHbe8Mwvt2QIp2tyYYHuW13K29hV79NgAn9lU6DKup5eLALNvw24BFZFactq++IP0PnKtOUdONba7r1Q+AF3bhHKlQO0PQbbWBuxNOspV94N7x8MSzmHhleEqKRX4lvMW0CNA8023JCcAZR2Gt4gZWN8junWRsNjiWGPgfTbD/WNAzs/DCybOTvuqP0aV9XwiZDUs6dUbwJhItdoaOR0SJO7QUUS5LKLfjBBfs6YVbkAqxBga0rUyGFak3KNpcnN18J3CULXZsPztTQX48XUqQ9P7EyTxiaixHj577xoVr2sLEyYRQdk3i2ffxxYGyze1n1ogFcleNVBs/aEh7r4bO/8jVDDy0L+yxjtFcf08C/Weu6m9wkUFhxmJQ55Pkrz02v9KaU4ZFyp6OTHsAZmt52uaGDuO9q3uBd25rPAwFBz0GOAYyWL25Lkj2/sz6RRVbBxNrOopcX2r99dx2dy3IgiJhoEbloctlbrHmXfUajTLTznHT1fYmFUA0Bpwk8Lk=",
-  "publishedAt": "2026-07-29T20:23:37.292Z",
-  "sizeBytes": 699699
+  "bundleId": "web-0.4.0-20260729T214106398Z",
+  "downloadUrl": "https://raw.githubusercontent.com/maks1son/life-game-updates/main/updates/android/production-4/bundles/web-0.4.0-20260729T214106398Z.zip",
+  "checksum": "b0258e2e1165f7a137629a92617d61334c159b992fbde92d50bc4f35c171eb2f",
+  "signature": "EQ2/QNiQiXxfQmZV4+h+q7x782euwaREHs8BwFHTYxpqiUawEY5CS6MXggomqe9pzEE9ZykuhLJVsVoWkplY60F1gXGVDphly2RjgMyMp2TBSFw8rHlLdj4Kn0+Vl8Skgj1zoVoM+o2PCWG7RhdQ3ad2o84wZAj/7/MrtLG4dZooJfHQjbUYby1JvtQ9VI3QHX05o4yz7mchT2V3F8qw0euwdv0f4HGG44lxCbg6X5HW5P3BX/rJj+XqZYK5DNHWOQhPcS/JOjEq7mfOgbT9O2XMlwRNU+kLVxHqv+4yPMiuzefceja1nHL2lfSyChCcw1r2OGMj/uApsIR75iAbISEqll+oMdD+P6fYBs2syKJGQHLbb74B0V1ISTdT7XcEERukTw8J4TodOeeeJMKFbbangZ6NzrBbRFLpnW2nZXOnyNGJVwsHFW1WAVxVZvxAHD0r3Wf4XQSVbMWwT07upEeZ2Digidk4zNACf41LaLQf4Fg32DY/FQBQ383hRT4Xpf5WZQkk/3PjsXbsyShs7cCQ2q944Vc00b/kdCSMOaOgYBjgXO245COmH6LvKAl8OuV0SEKPBqiV/l61aktwZGZnmifjMI/+J/wXhi8Q65KCPtUA09BSKCRK19ovlNWR4QUzxp9vj4NqVdBBJBsZVxnr397tybpUNLsq7H5luJ4=",
+  "publishedAt": "2026-07-29T21:41:06.570Z",
+  "sizeBytes": 699713
 }

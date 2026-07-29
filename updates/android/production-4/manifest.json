@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "channel": "production-4",
+  "nativeVersionCode": 4,
+  "nativeVersionName": "0.4.0",
+  "bundleId": "web-0.4.0-20260729T192942051Z",
+  "downloadUrl": "https://raw.githubusercontent.com/maks1son/life-game-updates/main/updates/android/production-4/bundles/web-0.4.0-20260729T192942051Z.zip",
+  "checksum": "8e787f2b3bbd1ca34151fa0ebb9c731ad8d55b85b80cb2352c15e1078fd75c89",
+  "signature": "VE/czOhP+Ee9vZRPdn9ET9k3AB+fO4mXS3Ans8ytJ5giNYvfZWD/0CpwUpBTgJAy7uGdhttADsdc5zgjkBBlMN6HiJkVwvOTuppx9CSRz6uV1gWuQlT79ponVtoxu//wMMFSm1LWrjltv8UkmSrvD46ua70CKR1Yqnok62niH/AAlnjMEOJdKuYAmUuUXMa+g2wbMA7Pn5TYPMCwshqvPEKv07zZHb5J7i0Y3XAu9we7Skr3BvRL9YtxEYOR4YF1ThIm8WnwzbFRQn8Rp/V1m3sFpyuctqDjdNckVQtu4qZ12yUs7pqcLkgLJkux2JoP7uevWltDUdNgD4skov+qKsH+T6TE3+KfoxNf0yDZqfXo5vd611PbNh6xKv1gkuKNr1jEjPlGdeEm9JaCnibGIeHdrY1wioM+dZHAz/lRFBSNszBQ8/b3arQTq9hDK+IJrfhuTZVsnSOp64/kUw51nMt4I4DFJ/9LPPpakXTbX3lKqmQNZ2ppE91JvBXRUiJFPqQzTVzXhF9uu/CO2n6V3tCWbm4aWDKOevhBW+dH2p3IZ5yYBakkp1mdtcsX2n538Kzd4C1Fv9Ik3MxKu9CBtBZZ/7VLVuIGu9qqSwz07bXwkLDF0jnCaTz8RRlZNtvknVJIzHagi6/SMjnLZKQdE601PrDPii28zB4DbvOCcRk=",
+  "publishedAt": "2026-07-29T19:29:42.317Z",
+  "sizeBytes": 699729
+}
